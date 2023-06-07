@@ -1,4 +1,4 @@
-# Hello Coders! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hello Coders! <img src="https://raw.githubusercontent.com/eChemex/eChemex/master/wave.gif" width="30px" height="30px" />
 
 My name is Chemex and I'm a software developer. I'm from the United Arab Emirates, living in Abu Dhabi and currently working on GrowPanel. You can find me on Discord by the name of Chemex#0001.
 
