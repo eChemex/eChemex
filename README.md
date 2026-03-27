@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hey there 👋
+
+i'm into AI and Machine Learning.
+
+## Goals
+ 
+- Get solid at AI.
+- Do research on ML.
+- Get into **MBZUAI**.
+- I forgot. ..
 
 <!--
 **eChemex/eChemex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
